@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["GNG", "SBS", "GNG"],
+  "key": {
+    "G": { "item": "minecraft:gold_block" },
+    "N": { "item": "minecraft:nether_star" },
+    "S": { "item": "minecraft:blaze_rod" },
+    "B": { "item": "minecraft:bow" }
+  },
+  "result": { "id": "kodanda:kodanda_bow", "count": 1 }
+}

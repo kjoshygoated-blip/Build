@@ -1,0 +1,24 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "MIT"
+
+[[mods]]
+modId = "kodanda"
+version = "1.0.0"
+displayName = "Kodanda Bow"
+authors = "kartikdebest"
+description = '''The divine golden Kodanda bow of Shree Ram, with 8 celestial astras.'''
+
+[[dependencies.kodanda]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.kodanda]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,1.22)"
+ordering = "NONE"
+side = "BOTH"

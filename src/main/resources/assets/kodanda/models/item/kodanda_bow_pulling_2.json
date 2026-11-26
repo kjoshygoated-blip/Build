@@ -1,0 +1,4 @@
+{
+  "parent": "kodanda:item/kodanda_bow",
+  "textures": { "layer0": "kodanda:item/kodanda_bow_pulling_2" }
+}
